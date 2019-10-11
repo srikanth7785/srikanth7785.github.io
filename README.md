@@ -11,4 +11,4 @@ This repository doesn't contain any source code.
 
 One more point to be noticed is that, Dart files are in turn compiled to Javascript in build process, except that Javascript is not involved any where in developing this website.
 
-Find source code here: https://github.com/srikanth7785/My-Personal-Website :heart_eyes:
+Find source code here: https://github.com/srikanth7785/My_Personal_Website :heart_eyes:
